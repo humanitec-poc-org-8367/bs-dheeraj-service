@@ -1,0 +1,7 @@
+site_name: 'bs-dheeraj-service Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
